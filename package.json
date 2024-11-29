@@ -1,6 +1,7 @@
 {
   "name": "rutinas",
   "private": true,
+  "homepage" : "https://Leandropacsi27.github.io/ProyectoReactConversor",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
