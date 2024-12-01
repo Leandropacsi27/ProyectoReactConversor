@@ -4,7 +4,7 @@ import './Navbar.css'
 const Navbar = () => {
   return (
     <header className="header" id='home'>
-      <a href="/" className='logo'>CONVERSOR.</a>
+      <a href="/" className='logo'>CONVERSOR</a>
 
       <nav className="navbar">
         <a href="#euro" className="navbar-link">Inicio</a>
